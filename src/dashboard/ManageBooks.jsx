@@ -104,7 +104,7 @@ const ManageBooks = () => {
   const [allBooks, setAllBooks] = useState([]);
 
   useEffect(() => {
-    fetch("https://book-store-3bg5.onrender.com/all-books")  // Updated URL
+    fetch("https://book-store-3bg5.onrender.com/")  // Updated URL
       .then(res => {
         if (!res.ok) {
           throw new Error('Network response was not ok');
@@ -160,7 +160,7 @@ const ManageBooks = () => {
         {
           allBooks.map((book, index) => (
             <Table.Body className="divide-y" key={book._id}>
-              <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
+              <Table.Row className="bg-yellow-300 dark:border-gray-700 dark:bg-gray-800">
                 <Table.Cell className="whitespace-nowrap font-medium text-gray-900 dark:text-white">
                   {index + 1}
                 </Table.Cell>

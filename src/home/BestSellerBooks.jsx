@@ -14,7 +14,7 @@ const BestSellerBooks = () => {
     const [books, setBooks] = useState([]);
 
     useEffect(() => {
-        fetch("https://book-store-3bg5.onrender.com/ll-books")
+        fetch("https://book-store-3bg5.onrender.com/all-books")
             .then(res => {
                 if (!res.ok) {
                     throw new Error('Network response was not ok');

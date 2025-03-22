@@ -48,7 +48,7 @@ const UploadBook = () => {
     console.log(bookObj);
 
     // send data to db
-    fetch("hhttps://book-store-3bg5.onrender.com/upload-book", {
+    fetch("https://book-store-3bg5.onrender.com/all-books/upload-book", {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

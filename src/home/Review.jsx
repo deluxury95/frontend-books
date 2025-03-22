@@ -69,10 +69,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -92,10 +94,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -115,10 +119,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -138,10 +144,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -161,10 +169,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -184,10 +194,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />
@@ -207,10 +219,12 @@ const Review = () => {
                 </div>
                 {/* text */}
                 <div className="mt-7">
-                    <p className="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime 
-                        molestiae, veritatis nesciunt corrupti consequuntur, molestias odit
-                         dolore tempora inventore doloremque asperiores, est aspernatur laboriosam 
-                         voluptas hic eius consequatur ullam dolor.</p>
+                    <p className="mb-5">It seems like you might be interested in learning about a
+                       bookseller or how to communicate with a CEO in that context. If you could
+                        provide more details, I’d be happy to help. Are you looking 
+                        for information about a bookselling business, a specific
+                         CEO in the book industry, or perhaps tips on how to
+                          craft a message to the CEO of a bookseller? Let me know how I can assist!</p>
                          <Avatar img={proPic} alt="avatar of Jese" rounded 
                          className="w-10 mb-4 "
                          />

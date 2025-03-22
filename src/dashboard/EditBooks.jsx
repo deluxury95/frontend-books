@@ -1,5 +1,3 @@
-
-
 import React, { useState } from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import { Button, Label, Textarea, TextInput } from "flowbite-react";
@@ -37,7 +35,7 @@ const EditBooks = () => {
     const updateBookObj = { bookTitle, authorName, URL, category, bookDescription, bookPDF };
 
     // Update the book data
-    fetch(`https://book-store-3bg5.onrender.com/book/${id}`, {
+    fetch(`https://book-store-3bg5.onrender.com/book/${id}`, {  // Updated URL
       method: 'PATCH',
       headers: {
         'Content-Type': 'application/json'
